@@ -14,6 +14,6 @@
 ***א. מאפיינים מספריים*** 
 - נשק מסוג ACR
 
-  <p algin="left">
+  <p algin="center">
     <img src="Asset/MW_images/ACR_GamePlaye.jpg" width="400" height="600">
   </p>
