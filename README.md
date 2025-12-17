@@ -15,5 +15,5 @@
 - נשק מסוג ACR
 
   <p algin="left">
-    <img src="Asset/MW_images/ACR_Gameplaye.jpg" width="400" height="600">
+    <img src="Asset/MW_images/ACR_GamePlaye.jpg" width="400" height="600">
   </p>
